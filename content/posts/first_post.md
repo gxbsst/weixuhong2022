@@ -12,7 +12,7 @@ resources:
   src: "featured-image.jpg"
 
 tags: ["文档", "技术"]
-categories: ["文档"]
+categories: ["文档1"]
 
 lightgallery: true
 
